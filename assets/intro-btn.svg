@@ -1,0 +1,5 @@
+<!-- sample rectangle -->
+<svg xmlns="http://www.w3.org/2000/svg" width="63" height="63" viewBox="0 0 63 63" fill="none">
+<circle cx="31.5" cy="31.5" r="31.5" fill="white"/>
+<path d="M44 32L26 44.1244V19.8756L44 32Z" fill="#DE3249"/>
+</svg>
